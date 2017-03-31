@@ -27,7 +27,7 @@ var web = new Promise((resolve) => {
 //install mobile
 
 
-console.log('Installing web and mobile, this should take around 50-80 seconds...')
+console.log('Installing web and mobile, this should take around 10-20 seconds...')
 var interval = spinner(options);
 execSync(`cd ./${PROJECT_NAME} && rm -rf .git && git init`, { stdio: 'inherit' });
 execSync(`cd ./${PROJECT_NAME} && npm i`, { stdio: 'inherit' });

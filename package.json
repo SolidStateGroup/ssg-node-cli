@@ -2,9 +2,6 @@
   "bin": {
     "ssg-node": "bin/index.js"
   },
-  "scripts": {
-    "test": "node bin/index.js mytest com.solidstategroup.test -f"
-  },
   "dependencies": {
     "char-spinner": "^1.0.1",
     "minimist": "^1.2.0",

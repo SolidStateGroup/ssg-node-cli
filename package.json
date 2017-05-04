@@ -13,5 +13,5 @@
   "preferGlobal": "true",
   "readme": "# ssg-node-cli\n**What is this?**\n\nA simple cli tool to create a new node project with our boilerplate.\n\n**Installation:**\n\n```\n\tnpm i ssg-node-cli -g\n```\n\n\n**Usage:**\n\n```\n\tssg-node {project-name}\n```\n\n\n**Requirements:**\n- node 6+",
   "readmeFilename": "README.md",
-  "version": "0.0.6"
+  "version": "0.0.7"
 }
